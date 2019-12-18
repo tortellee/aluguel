@@ -1,5 +1,3 @@
-# aluguel
-Projeto Fictício de um site em php para locação de vários tipos de veículos
 Skip to content
 Search or jump to…
 
