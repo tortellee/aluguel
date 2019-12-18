@@ -11,7 +11,7 @@
  tipos veículos, com banco de dados e php.
  
  <img src="https://cdn.icon-icons.com/icons2/317/PNG/512/calendar-clock-icon_34472.png" width="60" height="60">
- <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16">18/12/2019.
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> 18/12/2019.
  
 
 ---
