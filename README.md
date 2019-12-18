@@ -1,14 +1,17 @@
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
 ### <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50" height="50"> Atividades PHP, Descrição:
-|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> BANCO DE DADOS|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16">  PROJETO EM PHP|
+|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> BANCO DE DADOS|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16">  PROJETO EM PHP FICTÍCIO|
 |------|---------|
 
 
 ---
 
 ### <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-Html-512.png" width="60" height="60"> Detalhes do exercício:
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> PÇrojeto fictício criado no curso t.i senac noturno, sobre aluguel de vários
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> Projeto fictício criado no curso t.i senac noturno, sobre aluguel de vários
  tipos veículos, com banco de dados e php.
+ <img src="https://cdn.icon-icons.com/icons2/317/PNG/512/calendar-clock-icon_34472.png" width="60" height="60">
+ 18/12/2019
+ 
 
 ---
 
