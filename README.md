@@ -2,7 +2,7 @@
 ### <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50" height="50"> Atividades HTML, Descrição:
 |<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> DrNorman.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> trombone.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> email_cadastrado|
 |------|---------|----------|
-|Página com resumo da vida de DrNorman Borlaug |Página sobre trombone|Página de cadastro do e-mail realizado da pagina trombone.html
+|Página com Projeto Fictício de um site em php para locação de vários tipos de veículos.
 
 ---
 
