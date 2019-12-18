@@ -7,7 +7,8 @@
 ---
 
 ### <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-Html-512.png" width="60" height="60"> Detalhes do exercício:
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> Página com projeto fictício de aluguel de veículos.
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> PÇrojeto fictício criado no curso t.i senac noturno, sobre aluguel de vários
+ tipos veículos, com banco de dados e php.
 
 ---
 
