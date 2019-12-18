@@ -1,20 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tortellee 
-1
-00tortellee/ATIVIDADES-HTML-AGOSTO-01
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-ATIVIDADES-HTML-AGOSTO-01
-/
-README.md
- 
-
 1
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
 2
