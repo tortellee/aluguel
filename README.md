@@ -1,5 +1,6 @@
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
-### <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50" height="50"> Atividades PHP, Descrição:
+
+### <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="50" height="50"> Atividades PHP, Descrição:
 |<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> BANCO DE DADOS|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16">  PROJETO EM PHP FICTÍCIO|
 |------|---------|
 
