@@ -1,0 +1,12 @@
+<?php
+require_once 'classes\Lojas.php';
+$categoria = new Lojas();
+$nome = $_POST['nome'];
+$rua = $_POST['rua'];
+$numero = $_POST['numero'];
+$bairro = $_POST['bairro'];
+$cidade = $_POST['cidade'];
+$telefone = $_POST['telefone'];
+$categoria->inserir($nome, $rua, $numero, $bairro, $cidade, $telefone);
+header('Location:admin_lojas.php');
+?>
